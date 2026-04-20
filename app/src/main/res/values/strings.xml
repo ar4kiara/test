@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Reminder Voice Pro</string>
+    <string name="channel_alarm_default">Nada reminder</string>
+    <string name="channel_alarm_default_desc">Notifikasi reminder dengan nada pilihan pengguna.</string>
+    <string name="channel_alarm_voice">Pengingat suara</string>
+    <string name="channel_alarm_voice_desc">Notifikasi reminder yang suaranya diputar oleh aplikasi.</string>
+    <string name="channel_playback_service">Alarm sedang aktif</string>
+    <string name="channel_playback_service_desc">Notifikasi foreground saat alarm atau suara sedang diputar.</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_snooze">Tunda 5 menit</string>
+</resources>
